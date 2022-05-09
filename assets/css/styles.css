@@ -43,7 +43,7 @@ header nav a:hover {
 
 #livro-destaque {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/assets/img/7th_sea_FB_1000px.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/7th_sea_FB_1000px.jpg');
     height: 400px;
     background-size: cover;
     background-position-x: center;
